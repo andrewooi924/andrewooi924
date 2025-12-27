@@ -52,8 +52,6 @@ WIP
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="https://raw.githubusercontent.com/andrewooi924/andrewooi924/master/images/get-flash-player-1996.gif" alt="Flash Player" height="30"/>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/andrewooi924/andrewooi924/master/images/netscape-1995.gif" alt="Netscape 1995" height="30"/>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="https://raw.githubusercontent.com/andrewooi924/andrewooi924/master/images/microsoft-backoffice-1996.gif" alt="Microsoft BackOffice 1996" height="30"/>
 
 </div>
