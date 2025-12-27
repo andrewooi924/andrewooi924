@@ -15,7 +15,7 @@ Hi! I'm Andrew. I love all things tech, photography and coffee.
 <br>
 
 <!-- Languages -->
-<div align="center">
+<!-- <div align="center">
 WIP
 <b>Languages</b>
 <br><br>
@@ -28,7 +28,7 @@ WIP
 </tr>
 </table>
 </div>
-<br>
+<br> -->
 
 <!-- Technologies -->
 
